@@ -12,9 +12,9 @@ for example “” or “1” or “1,2” as inputs.
 (for an empty string it will return 0) 
 Hints:
 
- * Start with the simplest test case of an empty string and move to one and two numbers
- * Remember to solve things as simply as possible so that you force yourself to write tests you did not think about
- * Remember to refactor after each passing test
+ *- Start with the simplest test case of an empty string and move to one and two numbers
+ *- Remember to solve things as simply as possible so that you force yourself to write tests you did not think about
+ *- Remember to refactor after each passing test
 
 - Allow the Add method to handle an unknown amount of numbers
 
