@@ -1,0 +1,22 @@
+class method
+{
+	void method1
+	{
+		System.out.println("method1");
+	}
+}
+class overload extends method
+{
+	void method1
+	{
+		system.out.println("method overload");
+	}
+}
+class main
+{
+	public static void main(String args[]);
+	{
+		method ovr = new method();
+		System.out.pirntln("method"+ over.method1);
+	}
+}

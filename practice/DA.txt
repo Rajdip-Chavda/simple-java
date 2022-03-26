@@ -1,0 +1,51 @@
+@R
+Data and Statistics
+• Elements,Variable and Observation 
+• Scale of Measuremen
+
+Descriptive Statistics : Tabular and Graphical Presentations
+• Frequency Distribution 
+• Relative Frequency Distribution 
+• Percentage Frequency Distribution 
+• Commulative Distribution 
+• Ogive,Histrogram,Dot Plot 
+• StemAnd Leaf Display 
+• Simpson’s Paradox 
+• Scatter Diagram
+
+Descriptive Statistics : Numerical Measures
+• Mean,Median, Mode 
+• Percentile,Quartile 
+• Range, InterQuartile Range 
+• Variance and Standard Deviation 
+• Coefficient of Variation 
+• Z-Score 
+• Empirical Rule 
+• Weighted Mean
+
+Introduction to Probability
+• Experiment ,Sample Space 
+• Combination and Permutation 
+• Tree Diagram 
+• Events and their Probability 
+• Additional Law 
+• Mutual Exclusive Events
+• Conditional Probability
+• Indepenedent Events 
+• Multiplication Laws
+
+Discrete Probability Distributions
+• Random Variable(Discrete , Continues) 
+• Expected Value and Variance(Discrete and Bionomial Probability Distribution) 
+• Poission Probability Function 
+• HyperGeometric Probability Function
+
+Continuous Probability Distributions
+• Probability Density Function
+
+Sampling and Sampling Distributions
+• Point Estimation
+
+Hypothesis Tests
+• Hypothesis Testing 
+• Null And Alternative Hypothesis
